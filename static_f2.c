@@ -1,7 +1,7 @@
 /* hidden function */
 static int local_fun(int x)
 {
-	printf("in local_fun :%d\n",x);
+	printf("in local_fun X is %d\n",x);
 	return x*x;
 }
 
