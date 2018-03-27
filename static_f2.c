@@ -2,6 +2,8 @@
 static int local_fun(int x)
 {
 	printf("in local_fun X is %d\n",x);
+   int y=23;
+   x=y+2;
 	return x*x;
 }
 
