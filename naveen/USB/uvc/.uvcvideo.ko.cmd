@@ -1,0 +1,1 @@
+cmd_/home/naveen/Videos/naveen/USB/uvc/uvcvideo.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/naveen/Videos/naveen/USB/uvc/uvcvideo.ko /home/naveen/Videos/naveen/USB/uvc/uvcvideo.o /home/naveen/Videos/naveen/USB/uvc/uvcvideo.mod.o
