@@ -1,0 +1,1 @@
+cmd_/home/naveen/Videos/drivers/debugfs/debugfs_sample.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/naveen/Videos/drivers/debugfs/debugfs_sample.ko /home/naveen/Videos/drivers/debugfs/debugfs_sample.o /home/naveen/Videos/drivers/debugfs/debugfs_sample.mod.o ;  true

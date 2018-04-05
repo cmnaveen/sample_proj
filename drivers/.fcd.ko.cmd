@@ -1,0 +1,1 @@
+cmd_/home/naveen/Videos/drivers/fcd.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/naveen/Videos/drivers/fcd.ko /home/naveen/Videos/drivers/fcd.o /home/naveen/Videos/drivers/fcd.mod.o ;  true
